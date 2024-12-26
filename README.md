@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Aryan
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on _______
+- 📫 How to reach me @aryan28-s
+- 😄 Pronouns: Ary
+- ⚡ Fun fact: If you sleep too much, you will become a programmer 😴
